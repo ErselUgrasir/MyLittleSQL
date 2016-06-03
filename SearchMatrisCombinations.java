@@ -1,8 +1,8 @@
-package mylittlesql;
+package searchmatriscombinations;
 
 import java.util.Scanner;
 
-public class MyLittleSQL {
+public class SearchMatrisCombinations {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
