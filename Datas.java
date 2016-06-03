@@ -1,4 +1,4 @@
-package mylittlesql;
+package searchmatrissombinations;
 
 import java.util.ArrayList;
 import java.util.Random;
