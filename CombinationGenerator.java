@@ -1,4 +1,4 @@
-package mylittlesql;
+package searchmatriscombinations;
 
 import java.math.BigInteger;
 
