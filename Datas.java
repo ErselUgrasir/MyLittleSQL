@@ -1,4 +1,4 @@
-package searchmatrissombinations;
+package searchmatriscombinations;
 
 import java.util.ArrayList;
 import java.util.Random;
